@@ -1,5 +1,5 @@
 # Survey of lipid cyclization genes *grs* in hot springs metagenomes
-The following repository includes sample input files and code used to create figures published in Blum et al. "XX"
+The following repository includes sample input files and code used to create figures published in Blum et al. (in prep.)
 
 **hmm_gene_search**: This is a snakemake script used to search for *grs* homologs. A reference sequence alignment is used to build an hmm profile and perform an hmm search with HMMER.
 
