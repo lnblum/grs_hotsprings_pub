@@ -1,0 +1,4 @@
+alignment_dir: /global/cfs/cdirs/m342/lblum/hotsprings_metaG/gene_alignments 
+protein_dir: /global/cscratch1/sd/lblum/metagenomes_faa
+output_dir: /global/cfs/cdirs/m342/lblum/hotsprings_metaG/results
+gene_list: inputs/genelist.txt  
