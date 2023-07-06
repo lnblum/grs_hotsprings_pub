@@ -1,7 +1,0 @@
-The following directory contains the Snakefile used to automate the search for grs genes within genomes and metagenomes using an hmm profile of reference sequences.  This code was modified from a project developed by Harriet Alexander and Maria Pachiadaki, and Laura Blum (Woods Hole Oceanographic Institution).
-
-config.yaml: this file specifies 1) an alignment_dir, a directory in which the gene alignment is stored, from which to build the hmm profile, 2) a protein_dir, the directory in which the .faa files for the metagenomes are stored, 3) the output_dir, or output directory, and 4) a gene_list or list of genes to search for which corresponds to the alignments you have built for the search.
-cluster.yaml: configuration for running the snakemake on a cluster 
-submit_script: script for submitting the jobs to be run using a slurm job scheduler.
-envs: this directory includes files specifying software dependencies used in different rules of the snakemake (hmmer, sqtk, biopython)
-scripts: this directory includes a script which parses the output of the hmm search and creates the desired output table using pandas dataframes. 
