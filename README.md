@@ -1,5 +1,6 @@
 # Survey of lipid cyclization genes *grs* in hot springs metagenomes
-The following repository includes sample input files and code used to create figures published in Blum et al. (in prep.)
+The following repository includes sample input files and code used to create figures published in "Distribution and abundance of tetraether lipid cyclization genes in terrestrial hot springs reflect pH."
+Blum LN, Colman DR, Eloe-Fadrosh EA, Kellom M, Boyd ES, Zhaxybayeva O, Leavitt WD. Environ Microbiol. 2023 Sep;25(9):1644-1658. doi: 10.1111/1462-2920.16375. Epub 2023 Apr 9. PMID: 37032561.
 
 **reference_sequences**: The original set of reference sequences (n = 35) and the refined set of *grs* reference sequences (n = 60) used in the hmm gene search.
 
